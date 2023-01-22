@@ -1,6 +1,6 @@
 # flappybird_clone
 flappybird clone 
 
-unzip the files
-open index.html
+unzip the files <br>
+open index.html <br>
 use wasd keys to move
